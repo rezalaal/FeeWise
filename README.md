@@ -34,4 +34,4 @@ FeeWise is a modern and efficient web application designed to simplify school fe
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/rezalaal/FeeWise.git](https://www.google.com/search?q=https://github.com/rezalaal/FeeWise.git) 
+   git clone https://github.com/rezalaal/FeeWise.git 
